@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>IT 4403 Student Website<title>
+	<title>IT 4403 Student Website</title>
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
