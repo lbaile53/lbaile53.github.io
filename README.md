@@ -1,4 +1,4 @@
-# <!DOCTYPE html>
+<html>
 <head>
 	<title>IT 4403 Student Website<title>
 	<link rel="stylesheet" href="style.css">
@@ -12,4 +12,4 @@
 </body>
 </div>
 </html>
-Footer
+
